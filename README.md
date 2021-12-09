@@ -1,1 +1,2 @@
-# CSCE2100-Homework1
+# The Jug Problem
+As seen in Die Hard
